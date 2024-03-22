@@ -1,0 +1,32 @@
+{
+  "name": "eumfacilis",
+  "version": "1.0.0",
+  "description": "A Node.js library for interacting with the Ethereum blockchain, enabling wallet balance checks and transactions.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaijaBrown/eumfacilis.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "wallet",
+    "tempora",
+    "web3"
+  ],
+  "author": "MaidaCrist",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "homepage": "https://github.com/DaijaBrown/eumfacilis.git",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethereumjs-tx": "^2.1.2",
+    "prompt-sync": "^4.2.0",
+    "web3": "^4.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/DaijaBrown/eumfacilis.git/issues"
+  }
+}
